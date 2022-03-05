@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 tuan anh tao git Minh ga
 aaaaaaaaabbbbbbbbbccccccccc
+=======
+Minh tao git Minh đẹp trai  
+>>>>>>> ad121ad790d22a697ef353b383b4cb0b9048fa97
